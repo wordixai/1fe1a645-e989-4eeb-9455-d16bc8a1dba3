@@ -19,7 +19,8 @@
     "tengu_thinkback": false,
     "tengu_tool_search_unsupported_models": [
       "haiku"
-    ]
+    ],
+    "tengu_ant_attribution_header_new": true
   },
   "userID": "47e5843ed5241e6ca864384044ae06b63cbfa772e1a55e9ba899d1321025f422",
   "firstStartTime": "2026-02-01T12:48:12.121Z",
